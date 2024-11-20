@@ -13,3 +13,4 @@ light oil added
   dosa-batter
   paneer
   cheese
+  mysore-masala
