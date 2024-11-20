@@ -13,3 +13,7 @@ light oil added
   dosa batter
   2 eggs
   karam
+
+# paneer dosa
+  dosa batter
+  paneer
